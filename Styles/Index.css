@@ -53,11 +53,24 @@
     list-style: none;
   }
 .header{
-    border: #40C811 1px solid;
+   
     padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 #logo{
     color: #40C811;
     font-family: 'Passion One', cursive;
     font-size: 3.75rem;
+}
+.linkList{
+  
+    display: flex;
+    
+}
+.link{
+    text-align: right;
+    padding: .5rem;
+    
 }
