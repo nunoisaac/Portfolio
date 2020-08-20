@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 171.331 178.615" style="enable-background:new 0 0 171.331 178.615;"
+	 xml:space="preserve" id="logo">
+<style type="text/css">
+	.st0{fill:#050327;stroke:#45B649;stroke-width:5;stroke-miterlimit:10;}
+
+</style>
+<g id="Layer_3">
+	<rect x="16.402" y="68.611" class="st0" width="36.432" height="96.504"/>
+	<circle class="st0" cx="34.618" cy="36.396" r="18.891"/>
+	<defs>
+	<style>
+		#Layer_3 {
+			stroke-dasharray: 1000;
+			stroke-dashoffset:0;
+			-webkit-animation: dash 5s linear forwards;
+			-o-animation: dash 5s linear forwards;
+			-moz-animation: dash 5s linear forwards;
+			animation: dash 4s linear forwards;
+		}
+		#logo:hover .st0{fill: darkgreen; transition: .9s;}
+		@-webkit-keyframes dash{
+			from{stroke-dashoffset: 1000;}
+			to{stroke-dashoffset: 0;}
+		}
+	</style>
+	</defs>
+</g>
+<g id="Layer_2">
+	<path d="M-138.811,76.863"/>
+	<path class="st0" d="M2.5,176.115V6.349h61.824v24.967c0,0,11.519-31.926,52.474-28.569s52.033,20.813,52.033,70.161
+		s0,103.207,0,103.207h-66.804V63.508c0,0,0.336-15.442-14.099-15.106c0,0-17.456-1.678-18.463,21.485v106.228H2.5z"/>
+			<defs>
+	<style>
+		#Layer_2 {
+			stroke-dasharray: 1000;
+			stroke-dashoffset:0;
+			-webkit-animation: dash 2s linear forwards;
+			-o-animation: dash 2s linear forwards;
+			-moz-animation: dash 2s linear forwards;
+			animation: dash 1s linear forwards;
+		}
+		
+		@-webkit-keyframes dash{
+			from{stroke-dashoffset: 1000;}
+			to{stroke-dashoffset: 0;}
+		}
+	</style>
+	</defs>
+</g>
+</svg>

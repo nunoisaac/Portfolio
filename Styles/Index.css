@@ -9,7 +9,7 @@ html {
 
 body {
   font-family: Passion, sans-serif;
-  background: url(../background.jpg);
+  background: #050327;
   background-size: cover;
   background-attachment: fixed;
   color: #e1f5fe;
@@ -31,7 +31,7 @@ label,
 input,
 p {
   font-size: 1.5rem;
-  color: #e1f5fe;
+  color: #40c811;
 }
 p.marg-bottom {
   margin-bottom: 1.2rem;
@@ -54,19 +54,26 @@ a {
 li {
   list-style: none;
 }
-.header {
-  padding: 1rem;
+.container,
+.headerContainer {
+  width: 90%;
+  margin: auto;
+}
+.headerContainer {
+  /* margin-top: 2rem; */
+
+  height: 15vh;
+  min-height: 0.5rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 #logo {
-  padding: 0.2rem 0.3rem;
-  color: #40c811;
-  border: #40c811 2px solid;
+  padding: 0.1rem 0.1rem;
+  border: #40c811 6px solid;
   font-family: "Passion One", cursive;
-  font-size: 3.75rem;
-  line-height: 3rem;
+  font-size: 2rem;
+  line-height: 0rem;
 }
 .linkList {
   display: flex;
